@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+div {
+    margin: 0 auto;
+    margin-bottom: 150px;
+    width: 650px;
+    text-align: center;
+}
+h1 {
+    margin: 100px 0 50px 0;
+}
+p {
+    margin-bottom: 100px;
+}
+img {
+    max-width: 650px;
+    margin: 5px 0;
+}
