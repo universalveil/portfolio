@@ -17,6 +17,14 @@ h1 {
 p {
     margin-bottom: 100px;
 }
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+a:visited {
+    color: #333;
+    text-decoration: underline;
+}
 img {
     max-width: 650px;
     margin: 5px 0;
