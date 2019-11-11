@@ -15,7 +15,7 @@ h1 {
     margin: 100px 0 50px 0;
 }
 p {
-    margin-bottom: 100px;
+    margin: 0 20px 100px 20px;
 }
 a:link {
     color: black;
