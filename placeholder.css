@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    margin: 0;
+    padding: 30px;
+    background: url("img/2.png") no-repeat right fixed;
+    background-size: 500px;
+    background-color: #99c4d5;
+}
+div {
+    margin: 100px 0;
+    padding: 20px;
+    width: 100%;
+    max-width: 420px;
+    text-align: left;
+    background-color: rgba(153,196,213,0.8);
+}
+h3 {
+    margin: 0 0 100px 0;
+}
+p {
+    margin: 10px 0;
+}
+a:link {
+    color: white;
+    text-decoration: underline;
+}
+a:visited {
+    color: white;
+    text-decoration: underline;
+}
